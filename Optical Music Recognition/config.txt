@@ -1,0 +1,12 @@
+canny.low_thresh 240
+canny.high_thresh 1000
+hough.thresh 150
+hough.min_angle 0
+hough.max_angle 2
+hough.angle_bins 512
+hough.group_max_delta 5
+hough.r_bins_max 200
+template1.thresh 240
+template2.thresh 240
+template3.thresh 250
+
